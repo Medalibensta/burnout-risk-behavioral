@@ -1,0 +1,18 @@
+# Data is synthetic and fully regenerable via `python src/generate.py`.
+# The processed feature table is regenerated; the daily raw CSV (~4 MB) is kept
+# for a self-contained repo.
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
