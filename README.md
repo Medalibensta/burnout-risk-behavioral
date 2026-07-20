@@ -127,13 +127,3 @@ python notebooks/build_notebook.py
 ├── README.md
 └── requirements.txt
 ```
-
----
-
-## Résumé CV (2-3 lignes)
-
-> **Prédiction du risque de burnout (données comportementales)** — Python,
-> scikit-learn, SHAP. Simulation causale de traces (écran, sommeil, travail,
-> mobilité), **clustering** de profils comportementaux (2 archétypes nettement
-> séparés en risque) et **score de risque explicable** (ROC-AUC 0,96, SHAP),
-> avec une réflexion approfondie sur la vie privée et les biais.
